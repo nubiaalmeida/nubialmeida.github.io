@@ -4,12 +4,12 @@
 
 <h4 align="center">
   Criei este portfólio para mostrar meus trabalhos, habilidades e certificações ao longo da minha carreira profissional.
-  Apreciem e entre em contato comigo caso tenha dúvidas.
+  <br>Apreciem e entrem em contato comigo caso tenham dúvidas.
 </h4>
 
 ![Resultado final do projeto](assets/image/preview.png)
 
-<h4 align="center"><a href="https://nubialmeida.github.io">Clique para acessar o projeto</a></h4>
+<h4 align="center"><a href="https://nubiaalmeida.github.io/portfolio/">Clique para acessar o projeto</a></h4>
 
 ## 📚 Seções
 O portfólio é composto por 5 seções:
