@@ -138,7 +138,7 @@ header .larguraMaxContainer nav .nav-list li a:hover {
 .mobile-menu div {
   width: 32px;
   height: 2px;
-  background-color: #FEFBFB;
+  background-color: #BA55D3;
   margin: 8px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
@@ -201,7 +201,7 @@ header .larguraMaxContainer nav .nav-list li a:hover {
     width: 60vw;
     height: 100vh;
     z-index: 999;
-    background-color: #202020;
+    background-color: #fafafa;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
